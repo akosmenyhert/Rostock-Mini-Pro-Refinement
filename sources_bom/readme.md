@@ -1,7 +1,7 @@
 # Bill of Material
 
 ### Frame / Case:
-- Top & Bottom Plate 
+- [ ] Top & Bottom Plate 
    - 1x Acrylic Top Plate --> e.g. [Formulor Lasercut](http://www.formulor.de/)
    - 1x Acrylic Bottom Plate --> e.g. Formulor Lasercut
    - alternative: use plywood, alu, or something else what you can process 
